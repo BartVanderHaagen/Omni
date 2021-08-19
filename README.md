@@ -1,2 +1,2 @@
 # Omni
-Omni is an mecanum wheel based robot capable of navigating and mapping 
+Omni is a mecanum wheel based robot capable of navigating and mapping 
